@@ -1,4 +1,3 @@
-require 'config/environment'
 require 'anagram_finder/app'
 
 use Rack::CommonLogger, STDOUT
